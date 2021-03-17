@@ -1,0 +1,1 @@
+<center>Copyright &copy; Origin Software Ltd 2000-<?=date("Y");?></center>
